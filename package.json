@@ -1,0 +1,22 @@
+{
+  "name": "servidornode_desafio9",
+  "version": "1.0.0",
+  "description": "Servidor Node con express Desafio9",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vogeln7/servidorNode_Desafio9.git"
+  },
+  "author": "vn7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vogeln7/servidorNode_Desafio9/issues"
+  },
+  "homepage": "https://github.com/Vogeln7/servidorNode_Desafio9#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
